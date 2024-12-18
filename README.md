@@ -136,7 +136,6 @@ projeto-ag-criptoaritmetica/
 
 **Nome:** Micael Resende da Silva  
 **Email:** micael.silva@estudante.iftm.edu.br
-**GitHub:** [https://github.com/seu-usuario](https://github.com/Micael-Resende)  
 
 ---
 

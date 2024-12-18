@@ -95,13 +95,20 @@ projeto-ag-criptoaritmetica/
 ## 📸 **Imagens do Projeto**  
 
 ### **1. Interface Gráfica (Visualização do Problema)**  
-![Interface 1](imagens/exemplo_1.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso1.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso2.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso3.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso4.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso5.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/caso6.png)
 
-### **2. Relatório Gerado em Excel**  
-![Relatório Excel](imagens/exemplo_2.png)
+### **2. Solução SEND + MORE:**  
+![Relatório Excel](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/solve-send_more.png)
 
 ### **3. Terminal - Soluções e Operações**  
-![Terminal Output](imagens/exemplo_3.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/melhores_configs1.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/melhores_configs2.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/melhores_configs3.png)
 
 ---
 

@@ -110,6 +110,10 @@ projeto-ag-criptoaritmetica/
 ![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/melhores_configs2.png)
 ![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/melhores_configs3.png)
 
+### **2. Relatório Gerado em Excel** 
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/relatorio-pt1.png)
+![Interface 1](https://github.com/Micael-Resende/Algoritmo-Genetico/blob/master/project/images/relatorio-pt2.png)
+
 ---
 
 ## 📊 **Resultados do Projeto**  
